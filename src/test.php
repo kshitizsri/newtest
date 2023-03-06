@@ -7,6 +7,6 @@
     <title>Two</title>
 </head>
 <body>
-    
+    New changes in branch two
 </body>
 </html>
